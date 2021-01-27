@@ -1,0 +1,13 @@
+C:\Users\Slava\Desktop\visual\для экзамена\dataBaseOnTheKnee\bin\Debug\netcoreapp3.1\dataBaseOnTheKnee.exe
+C:\Users\Slava\Desktop\visual\для экзамена\dataBaseOnTheKnee\bin\Debug\netcoreapp3.1\dataBaseOnTheKnee.deps.json
+C:\Users\Slava\Desktop\visual\для экзамена\dataBaseOnTheKnee\bin\Debug\netcoreapp3.1\dataBaseOnTheKnee.runtimeconfig.json
+C:\Users\Slava\Desktop\visual\для экзамена\dataBaseOnTheKnee\bin\Debug\netcoreapp3.1\dataBaseOnTheKnee.runtimeconfig.dev.json
+C:\Users\Slava\Desktop\visual\для экзамена\dataBaseOnTheKnee\bin\Debug\netcoreapp3.1\dataBaseOnTheKnee.dll
+C:\Users\Slava\Desktop\visual\для экзамена\dataBaseOnTheKnee\bin\Debug\netcoreapp3.1\dataBaseOnTheKnee.pdb
+C:\Users\Slava\Desktop\visual\для экзамена\dataBaseOnTheKnee\obj\Debug\netcoreapp3.1\dataBaseOnTheKnee.csprojAssemblyReference.cache
+C:\Users\Slava\Desktop\visual\для экзамена\dataBaseOnTheKnee\obj\Debug\netcoreapp3.1\dataBaseOnTheKnee.AssemblyInfoInputs.cache
+C:\Users\Slava\Desktop\visual\для экзамена\dataBaseOnTheKnee\obj\Debug\netcoreapp3.1\dataBaseOnTheKnee.AssemblyInfo.cs
+C:\Users\Slava\Desktop\visual\для экзамена\dataBaseOnTheKnee\obj\Debug\netcoreapp3.1\dataBaseOnTheKnee.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\visual\для экзамена\dataBaseOnTheKnee\obj\Debug\netcoreapp3.1\dataBaseOnTheKnee.dll
+C:\Users\Slava\Desktop\visual\для экзамена\dataBaseOnTheKnee\obj\Debug\netcoreapp3.1\dataBaseOnTheKnee.pdb
+C:\Users\Slava\Desktop\visual\для экзамена\dataBaseOnTheKnee\obj\Debug\netcoreapp3.1\dataBaseOnTheKnee.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Slava\Desktop\visual\для экзамена\Дроби\bin\Debug\netcoreapp3.1\Дроби.exe
+C:\Users\Slava\Desktop\visual\для экзамена\Дроби\bin\Debug\netcoreapp3.1\Дроби.deps.json
+C:\Users\Slava\Desktop\visual\для экзамена\Дроби\bin\Debug\netcoreapp3.1\Дроби.runtimeconfig.json
+C:\Users\Slava\Desktop\visual\для экзамена\Дроби\bin\Debug\netcoreapp3.1\Дроби.runtimeconfig.dev.json
+C:\Users\Slava\Desktop\visual\для экзамена\Дроби\bin\Debug\netcoreapp3.1\Дроби.dll
+C:\Users\Slava\Desktop\visual\для экзамена\Дроби\bin\Debug\netcoreapp3.1\Дроби.pdb
+C:\Users\Slava\Desktop\visual\для экзамена\Дроби\obj\Debug\netcoreapp3.1\Дроби.csprojAssemblyReference.cache
+C:\Users\Slava\Desktop\visual\для экзамена\Дроби\obj\Debug\netcoreapp3.1\Дроби.AssemblyInfoInputs.cache
+C:\Users\Slava\Desktop\visual\для экзамена\Дроби\obj\Debug\netcoreapp3.1\Дроби.AssemblyInfo.cs
+C:\Users\Slava\Desktop\visual\для экзамена\Дроби\obj\Debug\netcoreapp3.1\Дроби.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\visual\для экзамена\Дроби\obj\Debug\netcoreapp3.1\Дроби.dll
+C:\Users\Slava\Desktop\visual\для экзамена\Дроби\obj\Debug\netcoreapp3.1\Дроби.pdb
+C:\Users\Slava\Desktop\visual\для экзамена\Дроби\obj\Debug\netcoreapp3.1\Дроби.genruntimeconfig.cache

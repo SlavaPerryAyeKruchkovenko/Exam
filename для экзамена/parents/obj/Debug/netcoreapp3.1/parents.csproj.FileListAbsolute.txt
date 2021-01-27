@@ -1,0 +1,13 @@
+C:\Users\Slava\Desktop\visual\для экзамена\parents\bin\Debug\netcoreapp3.1\parents.exe
+C:\Users\Slava\Desktop\visual\для экзамена\parents\bin\Debug\netcoreapp3.1\parents.deps.json
+C:\Users\Slava\Desktop\visual\для экзамена\parents\bin\Debug\netcoreapp3.1\parents.runtimeconfig.json
+C:\Users\Slava\Desktop\visual\для экзамена\parents\bin\Debug\netcoreapp3.1\parents.runtimeconfig.dev.json
+C:\Users\Slava\Desktop\visual\для экзамена\parents\bin\Debug\netcoreapp3.1\parents.dll
+C:\Users\Slava\Desktop\visual\для экзамена\parents\bin\Debug\netcoreapp3.1\parents.pdb
+C:\Users\Slava\Desktop\visual\для экзамена\parents\obj\Debug\netcoreapp3.1\parents.csprojAssemblyReference.cache
+C:\Users\Slava\Desktop\visual\для экзамена\parents\obj\Debug\netcoreapp3.1\parents.AssemblyInfoInputs.cache
+C:\Users\Slava\Desktop\visual\для экзамена\parents\obj\Debug\netcoreapp3.1\parents.AssemblyInfo.cs
+C:\Users\Slava\Desktop\visual\для экзамена\parents\obj\Debug\netcoreapp3.1\parents.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\visual\для экзамена\parents\obj\Debug\netcoreapp3.1\parents.dll
+C:\Users\Slava\Desktop\visual\для экзамена\parents\obj\Debug\netcoreapp3.1\parents.pdb
+C:\Users\Slava\Desktop\visual\для экзамена\parents\obj\Debug\netcoreapp3.1\parents.genruntimeconfig.cache

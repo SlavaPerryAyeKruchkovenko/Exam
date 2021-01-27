@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpritator", "Interpritator.csproj", "{A769C15F-A386-4AC9-BB9A-F6D61F1DFB9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A769C15F-A386-4AC9-BB9A-F6D61F1DFB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A769C15F-A386-4AC9-BB9A-F6D61F1DFB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A769C15F-A386-4AC9-BB9A-F6D61F1DFB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A769C15F-A386-4AC9-BB9A-F6D61F1DFB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70DE34EC-A157-4750-B485-2973BBEA1F1D}
+	EndGlobalSection
+EndGlobal

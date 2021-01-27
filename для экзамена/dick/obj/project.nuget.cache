@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "8m20xWrwCyNiZ82V3ABiZHhpqMCOTh/qnbO3huI3I95IXwQ0v4FZH3om+NvrZX+Mzx+62ZwiPyVqu87yBzQMLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Slava\\Desktop\\visual\\для экзамена\\dick\\dick.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Slava\\.nuget\\packages\\epp.presentationcore\\1.0.0\\epp.presentationcore.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"EPP.PresentationCore 1.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "EPP.PresentationCore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

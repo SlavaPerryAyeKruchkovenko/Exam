@@ -1,0 +1,15 @@
+C:\Users\Slava\Desktop\visual\для экзамена\dick\bin\Debug\netcoreapp3.1\dick.exe
+C:\Users\Slava\Desktop\visual\для экзамена\dick\bin\Debug\netcoreapp3.1\dick.deps.json
+C:\Users\Slava\Desktop\visual\для экзамена\dick\bin\Debug\netcoreapp3.1\dick.runtimeconfig.json
+C:\Users\Slava\Desktop\visual\для экзамена\dick\bin\Debug\netcoreapp3.1\dick.runtimeconfig.dev.json
+C:\Users\Slava\Desktop\visual\для экзамена\dick\bin\Debug\netcoreapp3.1\dick.dll
+C:\Users\Slava\Desktop\visual\для экзамена\dick\bin\Debug\netcoreapp3.1\dick.pdb
+C:\Users\Slava\Desktop\visual\для экзамена\dick\obj\Debug\netcoreapp3.1\dick.csprojAssemblyReference.cache
+C:\Users\Slava\Desktop\visual\для экзамена\dick\obj\Debug\netcoreapp3.1\dick.AssemblyInfoInputs.cache
+C:\Users\Slava\Desktop\visual\для экзамена\dick\obj\Debug\netcoreapp3.1\dick.AssemblyInfo.cs
+C:\Users\Slava\Desktop\visual\для экзамена\dick\obj\Debug\netcoreapp3.1\dick.dll
+C:\Users\Slava\Desktop\visual\для экзамена\dick\obj\Debug\netcoreapp3.1\dick.pdb
+C:\Users\Slava\Desktop\visual\для экзамена\dick\obj\Debug\netcoreapp3.1\dick.genruntimeconfig.cache
+C:\Users\Slava\Desktop\visual\для экзамена\dick\bin\Debug\netcoreapp3.1\PresentationCore.dll
+C:\Users\Slava\Desktop\visual\для экзамена\dick\obj\Debug\netcoreapp3.1\dick.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\visual\для экзамена\dick\obj\Debug\netcoreapp3.1\dick.csproj.CopyComplete

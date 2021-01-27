@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataBaseOnTheKnee", "dataBaseOnTheKnee.csproj", "{16094FD7-8BB8-4F1F-9EB5-57E90FD1B973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16094FD7-8BB8-4F1F-9EB5-57E90FD1B973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16094FD7-8BB8-4F1F-9EB5-57E90FD1B973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16094FD7-8BB8-4F1F-9EB5-57E90FD1B973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16094FD7-8BB8-4F1F-9EB5-57E90FD1B973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADF3534A-908C-485C-A7E7-BA26C78AF28D}
+	EndGlobalSection
+EndGlobal

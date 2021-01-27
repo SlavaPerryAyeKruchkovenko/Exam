@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Encoding File/1.0.0": {
+        "dependencies": {
+          "EPP.PresentationCore": "1.0.0"
+        },
+        "runtime": {
+          "Encoding File.dll": {}
+        }
+      },
+      "EPP.PresentationCore/1.0.0": {
+        "runtime": {
+          "lib/PresentationCore.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.34211"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encoding File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EPP.PresentationCore/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ttSZCunyGyOsL20FBZxM3K/7wMvWQ9vel+IidzFYdK02RIEx+EsV3Vc0Yeo8YslOp7G08unjNrtZEtWfLXJy4Q==",
+      "path": "epp.presentationcore/1.0.0",
+      "hashPath": "epp.presentationcore.1.0.0.nupkg.sha512"
+    }
+  }
+}

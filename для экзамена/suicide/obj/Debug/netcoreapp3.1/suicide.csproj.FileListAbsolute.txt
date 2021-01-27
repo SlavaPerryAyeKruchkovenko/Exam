@@ -1,0 +1,13 @@
+C:\Users\Slava\Desktop\visual\для экзамена\suicide\bin\Debug\netcoreapp3.1\suicide.exe
+C:\Users\Slava\Desktop\visual\для экзамена\suicide\bin\Debug\netcoreapp3.1\suicide.deps.json
+C:\Users\Slava\Desktop\visual\для экзамена\suicide\bin\Debug\netcoreapp3.1\suicide.runtimeconfig.json
+C:\Users\Slava\Desktop\visual\для экзамена\suicide\bin\Debug\netcoreapp3.1\suicide.runtimeconfig.dev.json
+C:\Users\Slava\Desktop\visual\для экзамена\suicide\bin\Debug\netcoreapp3.1\suicide.dll
+C:\Users\Slava\Desktop\visual\для экзамена\suicide\bin\Debug\netcoreapp3.1\suicide.pdb
+C:\Users\Slava\Desktop\visual\для экзамена\suicide\obj\Debug\netcoreapp3.1\suicide.csprojAssemblyReference.cache
+C:\Users\Slava\Desktop\visual\для экзамена\suicide\obj\Debug\netcoreapp3.1\suicide.AssemblyInfoInputs.cache
+C:\Users\Slava\Desktop\visual\для экзамена\suicide\obj\Debug\netcoreapp3.1\suicide.AssemblyInfo.cs
+C:\Users\Slava\Desktop\visual\для экзамена\suicide\obj\Debug\netcoreapp3.1\suicide.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\visual\для экзамена\suicide\obj\Debug\netcoreapp3.1\suicide.dll
+C:\Users\Slava\Desktop\visual\для экзамена\suicide\obj\Debug\netcoreapp3.1\suicide.pdb
+C:\Users\Slava\Desktop\visual\для экзамена\suicide\obj\Debug\netcoreapp3.1\suicide.genruntimeconfig.cache

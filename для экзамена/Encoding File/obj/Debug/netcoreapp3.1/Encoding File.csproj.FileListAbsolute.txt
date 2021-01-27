@@ -1,0 +1,15 @@
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\bin\Debug\netcoreapp3.1\Encoding File.exe
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\obj\Debug\netcoreapp3.1\Encoding File.csprojAssemblyReference.cache
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\obj\Debug\netcoreapp3.1\Encoding File.AssemblyInfoInputs.cache
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\obj\Debug\netcoreapp3.1\Encoding File.AssemblyInfo.cs
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\bin\Debug\netcoreapp3.1\Encoding File.deps.json
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\bin\Debug\netcoreapp3.1\Encoding File.runtimeconfig.json
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\bin\Debug\netcoreapp3.1\Encoding File.runtimeconfig.dev.json
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\bin\Debug\netcoreapp3.1\Encoding File.dll
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\bin\Debug\netcoreapp3.1\Encoding File.pdb
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\bin\Debug\netcoreapp3.1\PresentationCore.dll
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\obj\Debug\netcoreapp3.1\Encoding File.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\obj\Debug\netcoreapp3.1\Encoding File.csproj.CopyComplete
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\obj\Debug\netcoreapp3.1\Encoding File.dll
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\obj\Debug\netcoreapp3.1\Encoding File.pdb
+C:\Users\Slava\Desktop\visual\для экзамена\Encoding File\obj\Debug\netcoreapp3.1\Encoding File.genruntimeconfig.cache

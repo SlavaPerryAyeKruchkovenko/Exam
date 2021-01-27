@@ -1,0 +1,13 @@
+C:\Users\Slava\Desktop\visual\для экзамена\subtitri\bin\Debug\netcoreapp3.1\subtitri.exe
+C:\Users\Slava\Desktop\visual\для экзамена\subtitri\bin\Debug\netcoreapp3.1\subtitri.deps.json
+C:\Users\Slava\Desktop\visual\для экзамена\subtitri\bin\Debug\netcoreapp3.1\subtitri.runtimeconfig.json
+C:\Users\Slava\Desktop\visual\для экзамена\subtitri\bin\Debug\netcoreapp3.1\subtitri.runtimeconfig.dev.json
+C:\Users\Slava\Desktop\visual\для экзамена\subtitri\bin\Debug\netcoreapp3.1\subtitri.dll
+C:\Users\Slava\Desktop\visual\для экзамена\subtitri\bin\Debug\netcoreapp3.1\subtitri.pdb
+C:\Users\Slava\Desktop\visual\для экзамена\subtitri\obj\Debug\netcoreapp3.1\subtitri.csprojAssemblyReference.cache
+C:\Users\Slava\Desktop\visual\для экзамена\subtitri\obj\Debug\netcoreapp3.1\subtitri.AssemblyInfoInputs.cache
+C:\Users\Slava\Desktop\visual\для экзамена\subtitri\obj\Debug\netcoreapp3.1\subtitri.AssemblyInfo.cs
+C:\Users\Slava\Desktop\visual\для экзамена\subtitri\obj\Debug\netcoreapp3.1\subtitri.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\visual\для экзамена\subtitri\obj\Debug\netcoreapp3.1\subtitri.dll
+C:\Users\Slava\Desktop\visual\для экзамена\subtitri\obj\Debug\netcoreapp3.1\subtitri.pdb
+C:\Users\Slava\Desktop\visual\для экзамена\subtitri\obj\Debug\netcoreapp3.1\subtitri.genruntimeconfig.cache
